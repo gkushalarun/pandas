@@ -32,7 +32,7 @@ in the [JupyterLab documentation](https://jupyterlab.readthedocs.io/en/stable/us
 
 ## Books
 
-The book we recommend to learn pandas is [Python for Data Analysis](https://amzn.to/2KI5JJw),
+The we recommend the following book to learn pandas [Python for Data Analysis](https://amzn.to/2KI5JJw),
 by [Wes McKinney](https://wesmckinney.com/), creator of pandas.
 
 <a href="https://amzn.to/2KI5JJw">
